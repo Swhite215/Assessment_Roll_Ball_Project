@@ -1838,7 +1838,7 @@ Prefab:
     - target: {fileID: 114080833288650942, guid: 5b21e7e276576e54490cd32c47244585,
         type: 2}
       propertyPath: startWait
-      value: 5
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5b21e7e276576e54490cd32c47244585, type: 2}
